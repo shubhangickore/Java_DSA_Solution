@@ -13,8 +13,7 @@ public class DailyTemperature {
             }
             stack.push(i);
         }
-
-        return answer;
+          return answer;
     }
 
     public static void main(String[] args) {
