@@ -1,1 +1,1 @@
-here java practise problem are solved
+Java Practice solutions.
