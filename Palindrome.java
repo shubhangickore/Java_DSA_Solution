@@ -16,7 +16,7 @@ public class Palindrome {
     }
 
     public static void main(String[] args) {
-        String text = "Madam";
+        String text = "Madaam";
         System.out.println("Is palindrome: " + isPalindrome(text));
     }
 }
