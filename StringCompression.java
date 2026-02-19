@@ -11,7 +11,7 @@ public class StringCompression {
                 i++;
                 count++;
             }
-++++
+jsn
             chars[index++] = currentChar;
 
             if (count > 1) {
