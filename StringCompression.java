@@ -11,7 +11,6 @@ public class StringCompression {
                 i++;
                 count++;
             }
-swkjnm
             chars[index++] = currentChar;
 
             if (count > 1) {
