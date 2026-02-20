@@ -30,7 +30,6 @@ class Solution {
             return -Long.parseLong(new String(digits));
         }
     }
-;;
         private void reverseArray(char [] arr){
             int i=0 , j= arr.length-1;
             while(i<j){
