@@ -12,7 +12,7 @@ class Solution {
            while(index < digits.length && digits[index] == '0'){
             index++;
            }
-
+++;
            if(index < digits.length){
             char temp = digits[0];
             digits[0] = digits[index];
