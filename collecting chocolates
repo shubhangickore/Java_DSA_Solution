@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         long[] minCost = new long[n];
         long sum = 0;
-        
+       -- 
         for (int i = 0; i < n; i++) {
             minCost[i] = nums[i];
             sum += nums[i];
