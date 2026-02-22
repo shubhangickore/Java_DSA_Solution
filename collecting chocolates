@@ -7,7 +7,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             minCost[i] = nums[i];
             sum += nums[i];
-        }++
+        }
         long ans = sum;
         
         for (int k = 1; k < n; k++) {
