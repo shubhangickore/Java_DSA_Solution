@@ -33,7 +33,6 @@ public class ParkingLotOptimized {
         int C = matrix[0].length;
 
         int result = rowWithMaxOnes(matrix, R, C);
-
         System.out.println("Row with maximum 1s: " + result);
     }
 }
