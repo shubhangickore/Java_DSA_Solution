@@ -4,7 +4,7 @@ public class SingleNumberXOR {
         int xor = 0;
 
         for (int num : nums) {
-            xor ^= num;
+            xor = xor ^ num ;
         }
 
         System.out.println("Single number: " + xor);
