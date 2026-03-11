@@ -16,17 +16,4 @@ public class TwoSum {
         return new int[] {};
     }
 
-    public static void main(String[] args) {
-        int[] nums = { 2, 7, 11, 15 };
-        int target = 9;
-
-        int[] result = findTwoSum(nums, target);
-
-        if (result.length == 2) {
-            System.out.println("Indexes: " + result[0] + " and " + result[1]);
-            System.out.println("Numbers: " + nums[result[0]] + " and " + nums[result[1]]);
-        } else {
-            System.out.println("No solution found.");
-        }
-    }
-}
+   
