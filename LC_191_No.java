@@ -16,6 +16,6 @@ public class LC_191_No {
         int n = 11;
 
         int res = hammingWeight(n);
-        System.out.println("Number of 1 bits are " + res);
+        System.out.println("Number of 1 bits: " + res);
     }
 }
