@@ -22,6 +22,7 @@ public class Inventory {
         }
 
         int index = 0;
+        
         for (int num : nonMultiples) {
             arr[index++] = num;
         }
