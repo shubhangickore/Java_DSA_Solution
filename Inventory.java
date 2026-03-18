@@ -15,6 +15,7 @@ public class Inventory {
             
             if (arr[i] % 10 == 0) {
                 multiples.add(arr[i]);
+                
             } else {
                 nonMultiples.add(arr[i]);
             }
