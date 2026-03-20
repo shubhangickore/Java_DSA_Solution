@@ -20,6 +20,23 @@ public class SubstringCount {
 
         result += count * (count + 1) / 2;
         System.out.print(result);
+
+        // int count = 0;
+        // int max = 0;
+
+        // for (char ch : str.toCharArray()) {
+        // if (ch == '1') {
+        // count++;
+        // max = Math.max(max,count);
+        // }
+
+        // else {
+        // count = 0;
+        // }
+
+        // }
+
+        // System.out.println(max);
     }
 
 }
