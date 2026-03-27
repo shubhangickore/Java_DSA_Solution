@@ -1,4 +1,4 @@
-<h1 align="center">☕ Java DSA Solutions</h1>
+<h1 align="center">☕ Java DSA Solutions </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFA116&center=true&vCenter=true&width=500&lines=LeetCode+Problems+in+Java;Arrays+%7C+Strings+%7C+Trees+%7C+DP;Consistent+Daily+Practice;Clean+%2B+Well-commented+Solutions" alt="Typing SVG" />
